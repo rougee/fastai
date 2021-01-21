@@ -1,0 +1,10 @@
+fastai>=0.0.16
+graphviz
+ipywidgets
+matplotlib
+nbdev>=0.2.12
+pandas
+scikit_learn
+azure-cognitiveservices-search-imagesearch
+sentencepiece
+voila
